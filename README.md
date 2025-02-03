@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Larsson</h1>
-<h3 align="center">A upcoming frontend developer from Sweden</h3>
+<h3 align="center">An upcoming frontend developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombenrex&label=Profile%20views&color=0e75b6&style=flat" alt="tombenrex" /> </p>
 
