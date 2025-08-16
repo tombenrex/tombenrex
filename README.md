@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom Larsson</h1>
-<h3 align="center">An upcoming frontend developer from Sweden</h3>
+<h3 align="center">Developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombenrex&label=Profile%20views&color=0e75b6&style=flat" alt="tombenrex" /> </p>
 
 - 🌱 I’m currently learning **HTML, Javascript, CSS, React**
 
-- 📫 How to reach me **92tomlar@skola.boras.se**
+- 📫 How to reach me **tmlsn@hotmail.com**
 
 - ⚡ Fun fact **Started build houses now building webpages**
 
