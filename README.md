@@ -2,6 +2,8 @@
 🔭 Currently studying to become a front-end developer<br>🌱 Learning React & JavaScript<br>🤝 Interested in Linux tips and advice<br>💬 Open to collaboration and networking<br>⚡ Background as a carpenter, now passionate about web development<br>
 
 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tmlssn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tomlarssons) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tmlsn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tmlsn@hotmail.com) 
 
@@ -21,9 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tombenrex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-tombenrex/tombenrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Other Repos:
+[![My School Projects](https://img.shields.io/badge/School_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boras-frontend-react)
