@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying to become a front-end developer<br>🌱 Learning React & JavaScript<br>🤝 Interested in Linux tips and advice<br>💬 Open to collaboration and networking<br>⚡ Background as a carpenter, now passionate about web development<br>
+🔭 Currently studying to master developing<br>🌱 Learning React & JavaScript<br>🤝 Interested in Linux tips and advice<br>💬 Open to collaboration and networking<br>⚡ Background as a carpenter, now passionate about web development<br>
 
 
 
